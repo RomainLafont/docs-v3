@@ -1,6 +1,6 @@
 ---
 title: Points Programs
-order: 7
+order: 8
 ---
 
 # Setting Up a Partner Points Program Tag on the Balancer UI
@@ -142,7 +142,7 @@ For some tags, you may want to specify tokens instead of pools. In this case, yo
 1. **Clear Descriptions**: Provide a clear and concise description of your points program, including any special mechanics or multipliers.
 2. **Unique Identifiers**: Ensure your tag ID is unique and descriptive, always starting with "points_" for points programs.
 3. **Up-to-date Pool Lists**: Regularly update your pool list to reflect any changes in eligible pools.
-4. **High-Quality Icons**: If providing an icon, ensure it's high-quality either in in .svg or .png format
+4. **High-Quality Icons**: If providing an icon, ensure it's high-quality in .png format
 5. **Appropriate Values**: If your program has a multiplier, clearly indicate it in the "value" field.
 
 By following these steps and best practices, you'll successfully set up your partner points program tag in the Balancer protocol, allowing users to easily identify and participate in your program.
